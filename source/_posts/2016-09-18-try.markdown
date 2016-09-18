@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "try?"
+title: "try"
 date: 2016-09-18 14:29:24 -0400
 comments: true
-categories:[A, B, C] 
+categories: cat 
 ---
-### Hello
 
